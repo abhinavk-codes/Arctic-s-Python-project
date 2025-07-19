@@ -3,7 +3,7 @@
 This is my growing collection of beginner-to-intermediate Python programs developed as part of my self-learning journey.
 I'm preparing for global CS programs such as NUS Singapore and building a portfolio for scholarships and applications.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📁 Folders
 
@@ -20,25 +20,41 @@ Python-based pattern generation and pyramids for visual logic practice.
 Logic-based programs to strengthen control flow and algorithmic thinking.
 
 ### 🎮 Games
-I've done a number guessing game, which prompts the user to guess a number from (1 to 100)
-The game is fully functional and enjoyable. It tracks user attempts and supports replay.
-Beginner game implementations — currently working on a word guessing game (WIP).
+Explore two terminal-based Python mini-games in the `games/` directory:
 
----
+### 🔢 Number Guessing Game
+Guess the secret number! The program gives hints after each try.  
+  Features :
+- 1 to 100 number range
+- Attempt tracking
+- Feedback on every guess
+
+### ✊ Rock-Paper-Scissors
+Play against the computer with clean input handling and score tracking.  
+  Features :
+- Case-insensitive commands (`rock`, `Rock`, `ROCK`, etc.)
+- Keeps score for both sides
+- Option to replay after each round (`y` for yes, anything else for no)
+- Fun ASCII visuals to enhance gameplay (SOON!)
+
+- All games are built in Python and run directly in the terminal. No external packages needed.
+- Beginner game implementations — currently working on a word guessing game (WIP).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tools Used
 - Python 3.8 (currently on Python 3.11)
 - PyCharm IDE
 - AI for problem generation and refinement (not for writing final code)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Goals
 - Build mini-apps and GUIs soon
 - Participate in Python-based competitions
 - Apply for CS scholarships: NUS, DAAD, etc.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
 Hi, I’m Abhinav Krishna — an 11th-grade student from India, currently preparing for the JEE (Joint Entrance Examination) while independently learning Python programming.
@@ -52,7 +68,9 @@ I believe in learning by doing, and building in public keeps me consistent, hone
 
 Use GitHub to document and store my project and codes publicly
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ⭐ Want to Collaborate?
 Feel free to fork this repo or suggest improvements via pull requests. Let’s build in public!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
