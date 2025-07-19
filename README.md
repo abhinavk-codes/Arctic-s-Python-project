@@ -1,57 +1,76 @@
-🧊 Arctic's Python Project 🚀
-Welcome to my growing collection of beginner-to-intermediate Python programs — built as part of my self-learning journey.
+# Arctic's Python Project 🚀
 
-I'm currently preparing for global Computer Science programs like NUS Singapore, and using this repository as a portfolio for scholarships and university applications.
+This is my growing collection of beginner-to-intermediate Python programs developed as part of my self-learning journey.
+I'm preparing for global CS programs such as NUS Singapore and building a portfolio for scholarships and applications.
 
-📁 Project Structure
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔤 String_Programs/
-Programs that manipulate strings — like reversing words, counting vowels, and more.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔢 Number_Programs/
-Basic number-based logic such as Armstrong number checks, prime detection, and perfect numbers.
+## 📁 Folders
 
-🔷 Pattern_Programs/
-Fun with loops! Visual pattern generation using stars, numbers, and creative shapes.
+### 🔤 String_Programs
+Programs involving string manipulation like reversing words, counting vowels, and more.
 
-📊 Algorithms/
-Logic and control-flow practice — including search-based problems and algorithmic challenges.
+### 🔢 Number_Programs
+Basic number operations like Armstrong number check, prime detection, and perfect numbers.
 
-🎮 Games/
-✅ Number Guessing Game — A classic game where users guess a number between 1 and 100. Tracks attempts, includes replay functionality.
+### 🔷 Pattern_Programs
+Python-based pattern generation and pyramids for visual logic practice.
 
-🛠️ Word Guessing Game (Work in Progress) — Inspired by Hangman, this is my next game in development.
+### 📊 Algorithms
+Logic-based programs to strengthen control flow and algorithmic thinking.
 
-🛠️ Tech Stack
-Python 3.8 → Currently using Python 3.11
+### 🎮 Games
+Explore two terminal-based Python mini-games in the `games/` directory:
 
-IDE: PyCharm
+### 🔢 Number Guessing Game
+Guess the secret number! The program gives hints after each try.  
+  Features :
+- 1 to 100 number range
+- Attempt tracking
+- Feedback on every guess
 
-AI-assisted brainstorming for problem generation (but code is 100% written by me)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 My Learning Goals
-Build mini apps and Python GUIs (Tkinter coming soon!)
+### ✊ Rock-Paper-Scissors
+Play against the computer with clean input handling and score tracking.  
+  Features :
+- Case-insensitive commands (`rock`, `Rock`, `ROCK`, etc.)
+- Keeps score for both sides
+- Option to replay after each round (`y` for yes, anything else for no)
+- Fun ASCII visuals to enhance gameplay (SOON!)
 
-Participate in Python-based coding competitions
+- All games are built in Python and run directly in the terminal. No external packages needed.
+- Beginner game implementations — currently working on a word guessing game (WIP).
 
-Apply to top CS scholarship programs (NUS, DAAD, MIT, etc.)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👨‍💻 About Me
-Hi! I’m Abhinav Krishna, an 11th-grade student from India 🇮🇳 preparing for JEE while self-learning Python in parallel.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Coding isn't just a hobby — it's a serious passion.
-This repository tracks my hands-on learning — from basic programs to real-world apps.
+## 🛠️ Tools Used
+- Python 3.8 (currently on Python 3.11)
+- PyCharm IDE
+- AI for problem generation and refinement (not for writing final code)
 
-I believe in learning by doing, and this GitHub repo is my public journal to stay consistent, improve daily, and showcase my progress toward a global CS education.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🤝 Want to Collaborate?
-Feel free to:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐ Star this repo
+## 📌 Goals
+- Build mini-apps and GUIs soon
+- Participate in Python-based competitions
+- Apply for CS scholarships: NUS, DAAD, etc.
 
-🍴 Fork it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Suggest improvements via Pull Requests
+## 🧑‍💻 About Me
+Hi, I’m Abhinav Krishna — an 11th-grade student from India, currently preparing for the JEE (Joint Entrance Examination) while independently learning Python programming.
 
-Let’s build in public and grow together! 💻✨
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Coding isn’t just a hobby for me — it’s a serious passion. I’m building this portfolio to strengthen my core CS skills and document my progress in real time.
+
+My goal is to earn a Computer Science scholarship at a world-class university such as NUS, MIT, DAAD Germany.
+
+This repository represents my self-driven journey — starting from basic logic building and progressing toward real-world projects like mini-apps and Python-based tools.
+I believe in learning by doing, and building in public keeps me consistent, honest, and always improving.
+
+Use GitHub to document and store my project and codes publicly
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ⭐ Want to Collaborate?
+Feel free to fork this repo or suggest improvements via pull requests. Let’s build in public!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
